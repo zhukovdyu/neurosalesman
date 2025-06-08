@@ -1,0 +1,7 @@
+aiogram==3.13.1
+aiohttp==3.10.5
+requests==2.32.3
+langchain==0.3.25
+openai==1.84.0
+dotenv==0.9.9
+python-dotenv==1.1.0
